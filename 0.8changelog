@@ -1,1 +1,17 @@
-
+Added Damage Module-
+Added Delta ClickGui-
+Added AutoMine Gui-
+Added DuraTest-
+Added BowFly (Fly Mode)-
+Added LatestNCP TpAura (SetPos)-
+Added DarkTheme (Click Gui)-
+Added Reverse Colored Screen (ClickGui)-
+Fixed Image Bug-
+Fixed FPS Bugs-
+Fixed NullPoint CapeGui-
+Redesigned HurtTime (Aura)-
+Redesigned Rotations (Aura)-
+Redesigned Third Person Block Anim-
+Redesigned RTE2023 (Event Crit)-
+Redesigned TickAura (Faster Attacks)-
+Removed ErsinBuken.class-
