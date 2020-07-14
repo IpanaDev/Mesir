@@ -6,6 +6,7 @@ Added BowFly (Fly Mode)-
 Added LatestNCP TpAura (SetPos)-
 Added DarkTheme (Click Gui)-
 Added Reverse Colored Screen (ClickGui)-
+Added Wide Meme (Enable options/video settings/details/stars)-
 Fixed Image Bug-
 Fixed FPS Bugs-
 Fixed NullPoint CapeGui-
@@ -14,5 +15,6 @@ Redesigned Rotations (Aura)-
 Redesigned Third Person Block Anim-
 Redesigned RTE2023 (Event Crit)-
 Redesigned TickAura (Faster Attacks)-
+Redesigned Crash Report Texts!-
 Removed ErsinBuken.class-
 Removed Leak Protect (Abi Nolur Leaklama)
