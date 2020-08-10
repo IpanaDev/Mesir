@@ -8,6 +8,8 @@ Added Straight Scaffold Mode-
 Added Unio Module (bok gibi aura açma)-
 Added ItemRenderer case3 (Swing Eat Anim)-
 Added Eriq's Shell Api (F4 to open)-
+Added Emotes for chat-
+Added Unicode Font (type "#naber knk# in chat to toggle)-
 Fixed BindManager Crash-
 Redesigned Vanilla Phase Mode-
 Redesigned MainMenu-
