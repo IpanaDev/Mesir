@@ -5,11 +5,19 @@ Added Toggle Command For Shell-
 Added Value Command For Shell-
 Added New Emotes-
 Added Ghost (DiamOntiratous)-
+Added NoBob-
+Added Nuker-
+Added More Optimization-
 Fixed BindManager Mouse Scroll-
 Fixed Delta Click Gui Mouse Scroll-
 Redesigned Hud-
 Redesigned DrawGui-
 Redesigned HurtTime-
+Redesigned Fly Damage Packets-
+Redesigned OldNCPV2 Fly Mode-
+Redesigned Slow Phase Mode (FullBlock)-
+Redesigned Scaffold-
+Redesigned OldNCP Speed Mode-
 Removed Crosshair Module-
 Removed Crosshair Gui-
 Removed RTE2023-
